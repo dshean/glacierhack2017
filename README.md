@@ -28,7 +28,7 @@ Sources of input data:
 - SRTM 1-arcsec data (30-m)
 
 ### Feature-tracking and velocity map time series
-Lead(s): @willkochtitzky
+Lead(s): @willkochtitzky @prajjwalpanday
 
 We will explore [vmap](https://github.com/dshean/vmap) tools (wrappers around the Ames Stereo Pipeline correlator) to generate time series of velocity maps.  
 
