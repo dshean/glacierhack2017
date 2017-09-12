@@ -42,7 +42,7 @@ Lead(s): @drounce
 Attempt to estimate debris thickness using LS thermal IR imagery, output from an energy balance model, and observed elevation change data
 
 ### Lagrangian elevation change for mountain glaciers
-Lead(s): @dshean
+Lead(s): @dshean 
 
 Integrate elevation change and velocity measurements to extract Lagrangian Dh/Dt and local debris thickness change maps for comparison with debris thickness models.
 
