@@ -21,14 +21,14 @@ Code and notes for the 2017 UW eScience geohackweek GlacierHack project
 ## Sub-projects
 
 ### Geodetic mass balance
-Lead(s): @mattols
+Lead(s): @mattols, @spectorp
 
 Sources of input data:
 - High-resolution DEMs derived from stereo imagery
 - SRTM 1-arcsec data (30-m)
 
 ### Feature-tracking and velocity map time series
-Lead(s): @willkochtitzky 
+Lead(s): @willkochtitzky @prajjwalpanday
 
 We will explore [vmap](https://github.com/dshean/vmap) tools (wrappers around the Ames Stereo Pipeline correlator) to generate time series of velocity maps.  
 
@@ -42,7 +42,7 @@ Lead(s): @drounce
 Attempt to estimate debris thickness using LS thermal IR imagery, output from an energy balance model, and observed elevation change data
 
 ### Lagrangian elevation change for mountain glaciers
-Lead(s): @dshean
+Lead(s): @dshean 
 
 Integrate elevation change and velocity measurements to extract Lagrangian Dh/Dt and local debris thickness change maps for comparison with debris thickness models.
 
