@@ -34,10 +34,10 @@ We will explore [vmap](https://github.com/dshean/vmap) tools (wrappers around th
 
 Sources of input data for velocity maps include:
 - High-resolution image data from DigitalGlobe, Planet, LS8, Sentinel, etc.
-- High-resolution shaded relief maps derived from 2-m Stereo DEMs (see 
+- High-resolution shaded relief maps derived from 2-m Stereo DEMs (see
 
 ### Debris thickness modeling
-Lead(s): @drounce
+Lead(s): @drounce - Dave Rounce
 
 Attempt to estimate debris thickness using LS thermal IR imagery, output from an energy balance model, and observed elevation change data
 
