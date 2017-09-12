@@ -9,8 +9,14 @@ Code and notes for the 2017 UW eScience geohackweek GlacierHack project
 
 ## Background material
 - Rainier DEM Example from ghw2017 raster tutorial: https://geohackweek.github.io/raster/06-pygeotools_rainier/
-- DEM co-registration: https://github.com/dshean/demcoreg
-- NASA Ames Stereo Pipeline: https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/
+
+## Packages
+- GDAL
+- NumPy
+- pygeotools
+- demcoreg
+- vmap
+- Ames Stereo Pipeline (download precompiled binaries [here](https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/) and add bin directory to your PATH)
 
 ## Sub-projects
 
