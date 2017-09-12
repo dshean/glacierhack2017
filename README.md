@@ -21,7 +21,7 @@ Code and notes for the 2017 UW eScience geohackweek GlacierHack project
 ## Sub-projects
 
 ### Geodetic mass balance
-Lead(s): @mattols, @spectorp
+Lead(s): @mattols, @spectorp, @tarynblack
 
 Sources of input data:
 - High-resolution DEMs derived from stereo imagery
