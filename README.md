@@ -2,8 +2,8 @@
 Code and notes for the 2017 UW eScience geohackweek GlacierHack project
 
 ## Objectives
-- To learn new skills that may be useful for working with large raster datasets, specifically high-resolution DEMs
-- Learn basics of elevation change, volume change, and geodetic mass balance from DEM time series
+- To learn new skills to work with large raster datasets, specifically high-resolution DEMs
+- Learn how to calcluate elevation change, volume change, and geodetic mass balance from DEM time series
 - Explore options to integrate DEM time series into Google Earth Engine
 - Explore options to implement various processing steps in Google Earth Engine or other cloud-based processing platform
 
@@ -41,12 +41,13 @@ Lead(s): @dshean
 Integrate elevation change and velocity measurements to extract Lagrangian Dh/Dt and local debris thickness change maps for comparison with debris thickness models.
 
 ## Candidate sites
+Let's identify one or more sites with a good, dense time series of DEM/image data.  See count maps and indices.
 
 ### High-mountain Asia
 ![HMA mosaic](doc/hma_20170716_mos_32m_100m_proj_combined_lbl_sm.jpg)
 Index of available DEMs: https://drive.google.com/open?id=0B5c3UTO8DDZwNkktcGtBSXJvQjQ
 
-### Dense time series for glaciers in the Pacific NW (Mt. Rainier, Mt. Baker, Mt Olympus, etc.)
+### Pacific NW (Mt. Rainier, Mt. Baker, Mt Olympus, etc.)
 ![PNW mosaic](doc/pnw_dem_mosaic_countmap_timeseries_sm.jpg)
 Index of available DEMs: https://drive.google.com/file/d/0B5c3UTO8DDZwNDFvWkQ0bFdsa0U
 
