@@ -41,8 +41,8 @@ Index of available DEMs: https://drive.google.com/file/d/0B5c3UTO8DDZwNDFvWkQ0bF
 - [NumPy](http://www.numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [pygeotools](https://github.com/dshean/pygeotools)
-- [demcoreg](https://github.com/dshean/demcoreg)
 - [vmap](https://github.com/dshean/vmap)
+- [demcoreg](https://github.com/dshean/demcoreg)
 - [Ames Stereo Pipeline](https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/)
 
 ### Notes on ASP Install
